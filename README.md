@@ -5,10 +5,13 @@
 
 
 1.文件结构
-ComfyUI/custom_nodes/
-└── watermark_node/
-    ├── __init__.py
-    └── nodes.py
+ComfyUI/custom_nodes/watermark_node/
+
+
+├── __init__.py
+
+    
+└── nodes.py
 
 
 
